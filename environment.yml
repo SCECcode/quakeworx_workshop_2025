@@ -9,6 +9,7 @@ dependencies:
   - scipy
   - obspy
   - pandas
+  - usgs-libcomcat
   - cartopy 
   - pycsep
   - ipykernel  # Ensures the environment is available as a Jupyter kernel
