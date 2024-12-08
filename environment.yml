@@ -1,0 +1,14 @@
+name: quakeworx-notebook-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - scipy
+  - obspy
+  - pandas
+  - cartopy 
+  - pycsep
+  - ipykernel  # Ensures the environment is available as a Jupyter kernel
