@@ -1,5 +1,7 @@
 # User defined binary files
 u3_fore_2010_04_08.bin
+NSHM23_FSD_v3.geojson
+NSHM23_FSD_v3.kml
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
