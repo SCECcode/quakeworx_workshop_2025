@@ -16,3 +16,8 @@ On systems with conda and git installed, the steps for running the notebooks are
 The build script will invoke a conda command to use the environment.yml
 file to create a conda virtual environment called quakeworx-workshop-env.
 This environment contains all the libraries required to run the exercises.
+
+If changes to the environment.yml file are made, then the user can run
+the update.sh script which will update the conda environment using the
+contents of the environment.yml file.
+
