@@ -15,6 +15,5 @@ dependencies:
   - ipykernel  # Ensures the environment is available as a Jupyter kernel
   - pip
   - pip:
-    - wget
     - usgs-libcomcat
  
