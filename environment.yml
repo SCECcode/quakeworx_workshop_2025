@@ -1,4 +1,4 @@
-name: quakeworx-notebook-env
+name: quakeworx-workshop-env
 channels:
   - conda-forge
 dependencies:
@@ -15,4 +15,6 @@ dependencies:
   - ipykernel  # Ensures the environment is available as a Jupyter kernel
   - pip
   - pip:
+    - wget
     - usgs-libcomcat
+ 
